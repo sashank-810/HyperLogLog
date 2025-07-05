@@ -23,7 +23,7 @@ Limitations:
 
 ---
 
-### `23914_23629_23634.py` — Optimized Version
+### `main.py` — Optimized Version
 
 This file builds on top of `hll.py` and **optimizes the `get_nearest_neighbours` function**, which is a core bottleneck in the naive implementation.
 
@@ -43,7 +43,7 @@ Make sure you have Python 3.x installed.
 python hll.py
 
 # Run the optimized version
-python 23914_23629_23634.py
+python main.py
 
 ```
 
